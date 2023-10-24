@@ -1,4 +1,4 @@
-# urihash - urihash tool for RTIO
+# urihash - uri hash tool for RTIO
 
 ## 概述
 
